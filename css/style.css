@@ -1,6 +1,5 @@
 html {
   font-family: 'Coming Soon', cursive;
-  font-weight: 400;
   color: white;
   background: rgb(25, 25, 25);
 }
@@ -60,6 +59,7 @@ body {
 
 .btn {
   font-family: inherit;
+  font-size: 1em;
   width: 7em;
   padding: 0.5em 1em;
   border: 0.1em solid white;
