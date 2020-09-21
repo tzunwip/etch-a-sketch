@@ -1,0 +1,17 @@
+@media (orientation: landscape) and (max-height: 475px) {
+  .container {
+    grid-template-rows: none;
+    grid-template-columns: 1fr 2fr 1fr;
+  }
+
+  .btnContainer {
+    grid-auto-flow: row;
+  }
+
+  .instructions {
+    text-align: left;
+    padding: 0 1em;
+    display: flex;
+    flex-flow: column;
+  }
+}
