@@ -1,5 +1,5 @@
 # etch-a-sketch
-[etch-a-sketch](https://tzunwip.github.io/rps-game) application created following [The Odin Project](https://www.theodinproject.com/) [web development 101](https://www.theodinproject.com/lessons/etch-a-sketch-project) course
+[etch-a-sketch](https://tzunwip.github.io/etch-a-sketch/) application created following [The Odin Project](https://www.theodinproject.com/) [web development 101](https://www.theodinproject.com/lessons/etch-a-sketch-project) course
 
 ## Instructions: 
 1) Enter desired canvas size (64 tiles recommended)
